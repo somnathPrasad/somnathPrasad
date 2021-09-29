@@ -27,6 +27,9 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=somnathPrasad&)"><img src="https://activity-graph.herokuapp.com/graph?username=somnathPrasad&bg_color=FFFFFF&color=000000&line=000000&point=00FF00">
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=somnathPrasad&theme=blue-green&count_private=true)](https://git.io/streak-stats)
+<p align="center">
+  <img src="https://github.com/somnathPrasad/somnathPrasad/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
 
 <!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=somnathprasad" alt="somnathprasad" /></a> </p>
  -->
