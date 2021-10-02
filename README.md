@@ -24,7 +24,8 @@
 ## Check out my ⚡Streaks⚡ and Stats: 📊 
 [![Somnath's GitHub stats](https://github-readme-stats.vercel.app/api?username=somnathPrasad&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=somnathprasad&show_icons=true&locale=en&layout=compact" alt="somnathprasad" /></p>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=somnathPrasad&)"><img src="https://activity-graph.herokuapp.com/graph?username=somnathPrasad&bg_color=FFFFFF&color=000000&line=000000&point=00FF00">
+<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=somnathPrasad&)"> -->
+<img src="https://activity-graph.herokuapp.com/graph?username=somnathPrasad&bg_color=FFFFFF&color=000000&line=000000&point=00FF00">
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=somnathPrasad&theme=blue-green&count_private=true)](https://git.io/streak-stats)
 <h1 align = 'Center'>Watch a 🐍 eating my contribution graph</h1>
