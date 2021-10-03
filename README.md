@@ -19,7 +19,7 @@
  ![](https://img.shields.io/badge/JavaScript-Logic-informational?style=flat&logo=<>&logoColor=white&color=purple)
 ![](https://img.shields.io/badge/HTML-DOM-informational?style=flat&logo=<>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/CSS-Style-informational?style=flat&logo=<>&logoColor=white&color=red)
-![](https://img.shields.io/badge/Markdown-LightWeight-informational?style=flat&logo=<>&logoColor=white&color=yellow) <img src="https://www.codewars.com/users/DestinyCodeSavvy/badges/micro"/> ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=somnathPrasad)
+![](https://img.shields.io/badge/Markdown-LightWeight-informational?style=flat&logo=<>&logoColor=white&color=yellow)![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=somnathPrasad)
 
 ## Check out my ⚡Streaks⚡ and Stats: 📊 
 [![Somnath's GitHub stats](https://github-readme-stats.vercel.app/api?username=somnathPrasad&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
