@@ -1,7 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Somnath Prasad</h1>
 
-<h1 align="center"><img src="https://c.tenor.com/-khideobVBgAAAAi/earth-wind.gif" height="40"/>NEWS FLASH: Check out my best app yet!!! <a href="https://desolate-beach-76075.herokuapp.com/">Typing Race</a><img src="https://c.tenor.com/-khideobVBgAAAAi/earth-wind.gif" height="40"/></h1>
-
 <!-- - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on any web development project
